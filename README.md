@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-moreira-563737320)
 
-##I´m on my last year of an IT technical course by COTEMIG
+## I´m on my last year of an IT technical course by COTEMIG
 
 ## These are the languages I have knowledge on:
 
