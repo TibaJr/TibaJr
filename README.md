@@ -1,6 +1,6 @@
 ## Hi there I`m Gabriel Moreira  👋
 # 💫 About Me:
-<br>I am a Software Engineering student at PUC Minas<br>I have experience as an intern at Resultam<br>I have knowledge in: TypeScript, Vue.js, and Laravel<br>I am interested in backend and full stack development<br>I am constantly learning and improving my technical skills<br>I enjoy working with technology, solving problems, and building systems
+<br><br>I have experience as an intern at Resultam<br>I have knowledge in: TypeScript, Vue.js, and Laravel<br>I am interested in backend and full stack development<br>I am constantly learning and improving my technical skills<br>I enjoy working with technology, solving problems, and building systems
 
 
 ## 🌐 Socials:
